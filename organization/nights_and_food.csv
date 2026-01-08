@@ -1,6 +1,6 @@
 first name,last name,arrival (date and time),departure (date and time),breakfasts,lunchs,dinners,nights,comments
 Xavier,Caruso,?,?,?,?,?,?,
-Vincent,Delecroix,?,?,yes,yes,yes,yes,
+Vincent,Delecroix,?,29th before lunch,yes,yes,yes,yes,
 Oscar,Fontaine,?,?,?,?,?,?,
 Thierry,Monteil,?,?,?,?,?,?,
 Martin,Rubey,?,?,?,?,?,?,
