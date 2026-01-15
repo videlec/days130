@@ -1,5 +1,21 @@
-first name,last name,Sun. 25th lunch,Mo. 26th lunch,Mo. 26th dinner,Tu. 27th lunch,Tu. 27th dinner,Wed. 28th lunch,Wed. 28th dinner,Thu. 29th lunch,Thu. 29th dinner,Fri. 30th lunch
-Bill,Allombert,X,X,X,X,X,X,X,X,X,X
-Cécile,Armana,,,,,,X,X,X,X,X
-Rayane,Baït,,X,,X,,X,,X,,X
-
+first name,last name,Su. 25th lunch, Mo. 26th lunch,Mo. 26th dinner,Tu. 27th lunch,Tu. 27th dinner,We. 28th lunch,We. 28th dinner,Th. 29th lunch,Th. 29th dinner,Fr. 30th lunch
+Bill,Allombert,       Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Cécile,Armana,        N,N,N,N,N,Y,Y,Y,Y,Y
+Rayane,Baït,          N,Y,N,Y,N,Y,N,Y,N,Y
+Alix,Barraud,         N,Y,N,Y,N,Y,N,Y,N,Y
+Xavier,Caruso,        N,N,N,N,N,Y,Y,Y,Y,Y
+Vincent,Delecroix,    Y,Y,Y,Y,Y,Y,Y,N,N,N
+Oscar,Fontaine,       N,Y,Y,Y,Y,Y,Y,N,Y,Y
+Kai,Fu,               N,N,N,Y,N,Y,N,Y,N,Y
+Paul,Mercat,          Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Thierry,Monteil,      ?,?,?,?,?,?,?,?,?,?
+Rubén,Muñoz--Bertrand,Y,Y,Y,Y,Y,Y,?,?,?,?
+Aurel,Page,           N,Y,N,Y,N,Y,N,N,N,Y
+Raphael,Pages,        N,N,Y,Y,Y,Y,Y,Y,Y,Y
+Alice,Pellet-Mary,    N,N,N,N,N,N,N,N,N,N
+Martin,Rubey,         N,Y,?,Y,Y,Y,Y,Y,Y,?
+Julian,Rüth,          N,N,N,Y,Y,Y,Y,Y,Y,N
+Juliette,Schabanel,   N,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Ludovic,Schwob,       Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+David,Siukaev,        Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Alexander,Wiesner,    N,Y,Y,Y,Y,Y,Y,Y,Y,Y
